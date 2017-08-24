@@ -1,0 +1,5 @@
+CFBundleDisplayName = "微信web开发者工具";
+CFBundleGetInfoString = "微信web开发者工具 0.20.191900, Copyright © 1998 - 2016 Tencent. All Rights Reserved";
+CFBundleName = "微信web开发者工具";
+NSContactsUsageDescription = "";
+NSHumanReadableCopyright = "Copyright © 1998 - 2016 Tencent. All Rights Reserved";
